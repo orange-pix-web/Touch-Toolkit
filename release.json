@@ -1,6 +1,6 @@
 {
-  "downloadUrl": "https://github.com/orange-pix-web/Touch-Toolkit/releases/download/v0.5.20/_0.5.20_x64-setup.exe",
-  "tag": "v0.5.20",
-  "version": "0.5.20",
-  "sha256": "8C4B50812D4280D9EA47195EDD8256A7215667182660FA994F300E0A0AD48392"
+  "version": "0.5.21",
+  "downloadUrl": "https://github.com/orange-pix-web/Touch-Toolkit/releases/download/v0.5.21/_0.5.21_x64-setup.exe",
+  "sha256": "D6D3450506C53673EC931FE46CE7232FF07B54060FFC3FF2D23E91FA3A6837B5",
+  "tag": "v0.5.21"
 }
